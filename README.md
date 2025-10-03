@@ -4,7 +4,7 @@
 
 💡 Passionate about building *scalable web apps, crafting **beautiful UI/UX designs, and exploring the power of **AI integration*.  
 
----
+
 
 ## 🧑‍💻 About Me
 
@@ -50,7 +50,6 @@
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="40" height="40"/>
 
 
- ---
 
  
 ## 🌐 Connect with Me  
@@ -69,7 +68,6 @@
   </a>
 </p>
 
----
 
 
 ## 📊 GitHub Status  
@@ -84,5 +82,5 @@
 
 
 
----
+
 
