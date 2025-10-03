@@ -26,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>
 </p>
+
 ## 🔧 Tools & Platforms  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -34,6 +35,7 @@
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="40" height="40"/>
+  
 ## 🌐 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/dhanush-m-970136325/" target="_blank">
@@ -49,6 +51,7 @@
     <img src="https://img.shields.io/badge/Behance-1769FF.svg?&style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
 </p>
+
 ## 📊 GitHub Status  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dhanush1374949&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
