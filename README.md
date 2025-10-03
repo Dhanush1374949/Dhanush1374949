@@ -8,6 +8,7 @@
 - 🎨 Experience with *UI/UX design tools (Figma, Tailwind, Bootstrap)*  
 - 🌱 Currently learning *AI + Full Stack Development*  
 - 💼 Open to opportunities in *Frontend, Full-Stack, or UI/UX roles*  
+
 ## 🚀 Languages & Frameworks  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
