@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 
 <p align="center">
-  <img align="right"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWg0aDdmNDg0d2lyNDc0YXM0MjQwaGZhOTN0ZTB4bXl4M3FmdDcybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding Animation" width="300"/>
+  <img align="right"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWg0aDdmNDg0d2lyNDc0YXM0MjQwaGZhOTN0ZTB4bXl4M3FmdDcybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding Animation" width="200"/>
 </p>
 
 - 🎓 BCA Graduate | Strong foundation in Computer Science  
